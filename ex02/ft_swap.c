@@ -6,12 +6,9 @@
 /*   By: coder <coder@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/03 23:26:19 by coder             #+#    #+#             */
-/*   Updated: 2021/10/03 23:26:31 by coder            ###   ########.fr       */
+/*   Updated: 2021/10/05 02:48:59 by coder            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include <unistd.h>
-#include <stdio.h>
 
 void	ft_swap(int *a, int *b)
 {
